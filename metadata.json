@@ -1,0 +1,5 @@
+{
+  "name": "ProjectFlow",
+  "description": "A Kanban board application for project management with drag-and-drop support and local storage persistence.",
+  "requestFramePermissions": []
+}
